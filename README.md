@@ -9,8 +9,7 @@ Desafio principal da trilha React, capitulo 2
 ![Cart Page](https://github.com/Vinicius-PR/Ignite-Challenge-02/blob/master/Images-ending-result/CartPage.jpg)
 
 # About
-This simple aplication simulate a onlie store using a local api. This aplication list all the products from api with it fotos, titles and prices. Also it will warn you if there is not enough product when you try select more than in the stock. It is very similar to a real aplication.
-
+This simple aplication simulate a onlie store using a local api. This aplication list all the products from api with it fotos, titles and prices. Also it will warn you if there is not enough product when you try select more than in the stock. It is very similar to a real aplication. My job was to create my onw hook to manage the shopping cart.
 # Technologies used
 * React
 * Typescript
